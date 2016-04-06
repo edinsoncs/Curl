@@ -1,0 +1,21 @@
+{
+  "name": "curl",
+  "version": "1.0.0",
+  "description": "utilizamos curl con nodejs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "keywords": [
+    "curl",
+    "nodejs",
+    "ockang",
+    "edinsoncs"
+  ],
+  "author": "edinsoncs",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.13.4",
+    "node-libcurl": "^0.8.0"
+  }
+}
